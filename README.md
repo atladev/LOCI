@@ -16,9 +16,10 @@ A complete solution for managing your restaurant using Flutter and Firebase.
     - Set up a Firebase project.
     - Add the necessary dependencies in the pubspec.yaml file.
     - Run the app on an emulator or a physical device.
-## Prerequisites
+## Prerequisites to use this code
 
     - Knowledge of Dart and Flutter
+    - know how to use an android emulator
     - Basic understanding of Firebase
 ## Contributing
 
