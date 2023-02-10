@@ -21,5 +21,6 @@
 	- BOTÃO PARA DETALHES DE CADA PEDIDO
    *nesta página vai ter que fazer a brincadeira de demonstrar excluindo e finalizando pedidos e eles estarem na página de histórico
    
-   -- LINK PARA MELHOR VISUALIZAÇÃO --
+   ## kitchen demonstration video
+   
    https://drive.google.com/file/d/1st6gRKanJjsVvEgfmjQDQKi-an98o5gc/view
