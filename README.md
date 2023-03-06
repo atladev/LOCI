@@ -1,7 +1,6 @@
 # LOCI - Restaurant Management App
 
 A multi-platform solution for managing a restaurant built with Flutter and Firebase.
-
 <br />
 
 ## Features
