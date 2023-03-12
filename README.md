@@ -2,7 +2,7 @@
 
 A multi-platform solution for managing a restaurant built with Flutter and Firebase.
 <br />
-
+.
 ## Features
 
 - Management Dashboard: Managers can view real-time data about sales, food inventory, and more.
