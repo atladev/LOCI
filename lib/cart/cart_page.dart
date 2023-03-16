@@ -45,8 +45,8 @@ class CartPage extends StatelessWidget {
             child: Container(
               child: Column(
                 children: [
-                  CartItem(title: "Coca-Cola", price: 6.99),
-                  CartItem(title: "Peru", price: 72.99),
+                  CartItem(title: "Coca-Cola", price: 1.99),
+                  CartItem(title: "Turkey", price: 7.99),
                 ],
               ),
             ),
