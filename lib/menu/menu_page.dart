@@ -63,7 +63,7 @@ class MenuPage extends StatelessWidget {
               ),
               Tab(
                 child: Text(
-                  'Bebidas',
+                  'Drinks',
                 ),
               ),
             ],
@@ -110,7 +110,7 @@ class MenuPage extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.only(left: 120),
                   child: Text(
-                    "Valor",
+                    "Price",
                     style: AppTextStyles.body,
                   ),
                 ),

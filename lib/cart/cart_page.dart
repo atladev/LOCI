@@ -19,7 +19,7 @@ class CartPage extends StatelessWidget {
               width: 45,
             ),
             Text(
-              "Carrinho",
+              "Cart",
               style: AppTextStyles.logo,
             ),
             Image.asset(
