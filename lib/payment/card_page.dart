@@ -51,7 +51,7 @@ class CreditCardPageState extends State<CardPage> {
                         obscureNumber: true,
                         cardNumberDecoration: const InputDecoration(
                           border: OutlineInputBorder(),
-                          labelText: 'Numero do Cartão',
+                          labelText: 'Card Number',
                           hintText: 'XXXX XXXX XXXX XXXX',
                         ),
                         expiryDateDecoration: const InputDecoration(
@@ -91,7 +91,7 @@ class CreditCardPageState extends State<CardPage> {
                         onPressed: () {
                           if (formKey.currentState.validate()) {
                             print('validado!');
-                            _showValidDialog(context, "Obrigado",
+                            _showValidDialog(context, "Thank you",
                                 "Seu cartão foi confirmado com sucesso !!!");
                           } else {
                             print('Ops... Temos um erro!');
