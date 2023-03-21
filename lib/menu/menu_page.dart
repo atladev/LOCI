@@ -58,7 +58,7 @@ class MenuPage extends StatelessWidget {
             tabs: <Widget>[
               Tab(
                 child: Text(
-                  'Pratos',
+                  'Menu',
                 ),
               ),
               Tab(
