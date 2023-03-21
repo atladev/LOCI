@@ -25,7 +25,7 @@ class MenuPage extends StatelessWidget {
                   width: 45,
                 ),
                 Text(
-                  "Cardápio",
+                  "Menu",
                   style: AppTextStyles.logo,
                 ),
                 Image.asset(
@@ -58,7 +58,7 @@ class MenuPage extends StatelessWidget {
             tabs: <Widget>[
               Tab(
                 child: Text(
-                  'Menu',
+                  'Meals',
                 ),
               ),
               Tab(
