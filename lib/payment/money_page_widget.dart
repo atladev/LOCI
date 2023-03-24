@@ -29,7 +29,7 @@ class MoneyPage extends StatelessWidget {
                     child: Padding(
                       padding: const EdgeInsets.only(top: 50),
                       child: Text(
-                        'Estamos chegando de algum planeta!',
+                        'We are coming from some planet!',
                         style: AppTextStyles.body,
                       ),
                     ),
@@ -46,7 +46,7 @@ class MoneyPage extends StatelessWidget {
                     onPressed: () {
                       _showDialog(context);
                     },
-                    child: Text('Confirmar!'),
+                    child: Text('Confirm!'),
                   ),
                 )
               ],
@@ -68,7 +68,7 @@ void _showDialog(BuildContext context) {
         ),
         title: Center(
           child: Text(
-            "Ótimo",
+            "Great",
             style: AppTextStyles.heading,
           ),
         ),
@@ -77,7 +77,7 @@ void _showDialog(BuildContext context) {
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(
-              "Precisa de troco?",
+              "Do you need change?",
               style: AppTextStyles.body,
             ),
           ],
@@ -90,7 +90,7 @@ void _showDialog(BuildContext context) {
               // ignore: deprecated_member_use
               new FlatButton(
                 child: new Text(
-                  "Não",
+                  "No",
                   style: AppTextStyles.body,
                 ),
                 onPressed: () {
@@ -100,7 +100,7 @@ void _showDialog(BuildContext context) {
               // ignore: deprecated_member_use
               new FlatButton(
                 child: new Text(
-                  "Sim",
+                  "Yes",
                   style: AppTextStyles.body,
                 ),
                 onPressed: () {
