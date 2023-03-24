@@ -58,7 +58,7 @@ class PaymentPage extends StatelessWidget {
             tabs: <Widget>[
               Tab(
                 child: Text(
-                  'Dinheiro',
+                  'Cash',
                 ),
               ),
               Tab(
@@ -68,7 +68,7 @@ class PaymentPage extends StatelessWidget {
               ),
               Tab(
                 child: Text(
-                  'Cartão',
+                  'Credit card',
                 ),
               ),
             ],

@@ -30,7 +30,7 @@ class PixPage extends StatelessWidget {
                   ),
                   subtitle: Center(
                     child: Text(
-                      'Trazendo as informações para a transferência via Pix',
+                      'Bringing the information for transfer via Pix',
                       style: AppTextStyles.body,
                       textAlign: TextAlign.center,
                     ),
