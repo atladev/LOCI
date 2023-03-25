@@ -40,7 +40,7 @@ class _CounterWidgetState extends State<CounterWidget> {
       crossAxisAlignment: CrossAxisAlignment.center,
       children: <Widget>[
         Text(
-          'Tripulantes na mesa:',
+          'Crew members at the table:',
           style: AppTextStyles.headingSec,
         ),
         Row(

@@ -35,7 +35,7 @@ class LoginCardWidget extends StatelessWidget {
                 padding: const EdgeInsets.all(8.0),
                 child: Column(
                   children: [
-                    Text("Você está na mesa 7!",
+                    Text("You are at table 7!",
                         style: AppTextStyles.headingTable),
                   ],
                 ),
@@ -61,22 +61,22 @@ class LoginCardWidget extends StatelessWidget {
                 children: [
                   TextFormField(
                     decoration: InputDecoration(
-                      labelText: 'Nome do primeiro tripulante:',
+                      labelText: 'Name of the first crew member:',
                     ),
                   ),
                   TextFormField(
                     decoration: InputDecoration(
-                      labelText: 'Nome do segundo tripulante:',
+                      labelText: 'Name of the second crew member:',
                     ),
                   ),
                   TextFormField(
                     decoration: InputDecoration(
-                      labelText: 'Nome do terceiro tripulante:',
+                      labelText: 'Name of the third crew member:',
                     ),
                   ),
                   TextFormField(
                     decoration: InputDecoration(
-                      labelText: 'Nome do quarto tripulante:',
+                      labelText: 'Name of the fourth crew member:',
                     ),
                   ),
                 ],
@@ -99,7 +99,7 @@ class LoginCardWidget extends StatelessWidget {
                             ),
                           );
                         },
-                        child: Text('Decolar'),
+                        child: Text('Launch'),
                         style: ElevatedButton.styleFrom(
                           primary: AppColors.backgroundButton,
                           onPrimary: Colors.white,
