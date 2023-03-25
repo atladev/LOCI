@@ -82,7 +82,7 @@ class _BebidaMenuState extends State<BebidaMenu> {
             child: Column(
               children: [
                 Text(
-                  'Bebida gaseificada sabor cola produzida com água mais pura encontrada no planeta aquático',
+                  'Carbonated cola-flavored beverage made with the purest water found in the aquatic planet.',
                   style: AppTextStyles.body,
                   textAlign: TextAlign.center,
                 ),

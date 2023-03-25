@@ -67,11 +67,11 @@ class _PratoMenuState extends State<PratoMenu> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Text(
-              'Peru',
+              'Turkey',
               style: AppTextStyles.headingCard,
             ),
             Text(
-              '72,99',
+              '7,99',
               style: AppTextStyles.headingCard,
             ),
           ],
@@ -82,7 +82,7 @@ class _PratoMenuState extends State<PratoMenu> {
             child: Column(
               children: [
                 Text(
-                  'Peru assado nas chamas do planetóide mais quente da região juntamente com especiarias trazidas de planetas fazenda',
+                  'Roasted turkey on the flames of the hottest planetoid in the region, along with spices brought from farm planets',
                   style: AppTextStyles.body,
                   textAlign: TextAlign.center,
                 ),
