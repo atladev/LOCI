@@ -57,7 +57,7 @@ class CartItem extends StatelessWidget {
                     onPressed: () {
                       _showCartItemDialog(context);
                     },
-                    child: Text('Alterar!'),
+                    child: Text('Change!'),
                   ),
                 )
               ],
@@ -79,7 +79,7 @@ void _showCartItemDialog(BuildContext context) {
         ),
         title: Center(
           child: Text(
-            "Vamos lá",
+            "Let's go",
             style: AppTextStyles.heading,
           ),
         ),
@@ -88,7 +88,7 @@ void _showCartItemDialog(BuildContext context) {
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(
-              "Altere a quantidade",
+              "Change the quantity",
               style: AppTextStyles.body,
             ),
           ],
@@ -102,7 +102,7 @@ void _showCartItemDialog(BuildContext context) {
               // ignore: deprecated_member_use
               new FlatButton(
                 child: new Text(
-                  "Cancelar",
+                  "Cancel",
                   style: AppTextStyles.body,
                 ),
                 onPressed: () {
@@ -112,7 +112,7 @@ void _showCartItemDialog(BuildContext context) {
               // ignore: deprecated_member_use
               new FlatButton(
                 child: new Text(
-                  "Confirmar",
+                  "Confirm",
                   style: AppTextStyles.body,
                 ),
                 onPressed: () {
