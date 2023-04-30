@@ -42,5 +42,7 @@
 	- CARTÃO:
 		ZONA DE PAGAMENTO CONFORME API REQUERIDA DO ESTABELECIMENTO
 		
+		
 	-- LINK PARA EXIBIÇÃO COMPLETA --
+	
 	https://drive.google.com/file/d/10l71co6N_W8GiKUFKaFPbo4Oikj9moWW/view
